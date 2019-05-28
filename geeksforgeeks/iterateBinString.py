@@ -12,20 +12,11 @@ Constraints:
 1<=m<=50
 1<=n<=10
 0<=k<=|Length of final string|
-
-Example:
-Input:
-2
-5 5 3
-11 6 4
-
-Output:
-1
-1
+ B
 """
 
 for t in range(int(input())):
-    m,k,n = [int(x) for x in input().split()]
+    l
     m = bin(m)[2:]
     for c in range(n):
         new = ""
